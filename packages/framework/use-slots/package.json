@@ -31,7 +31,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@fluentui-react-native/use-slot": ">=0.5.0 <1.0.0"
+    "@fluentui-react-native/use-slot": ">=0.1.2"
   },
   "devDependencies": {
     "@fluentui-react-native/merge-props": ">=0.8.0 <1.0.0",
