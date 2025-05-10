@@ -26,13 +26,13 @@
     "directory": "packages/experimental/dropdown"
   },
   "dependencies": {
-    "@fluentui-react-native/adapters": ">=0.12.0 <1.0.0",
-    "@fluentui-react-native/button": ">=0.36.10 <1.0.0",
-    "@fluentui-react-native/callout": ">=0.25.8 <1.0.0",
-    "@fluentui-react-native/framework": "0.13.6",
+    "@fluentui-react-native/adapters": ">=0.1.1",
+    "@fluentui-react-native/button": ">=0.2.0",
+    "@fluentui-react-native/callout": ">=0.2.0",
+    "@fluentui-react-native/framework": "0.2.9",
     "@fluentui-react-native/interactive-hooks": ">=0.25.7 <1.0.0",
-    "@fluentui-react-native/text": ">=0.22.7 <1.0.0",
-    "@fluentui-react-native/theme-tokens": "^0.26.5"
+    "@fluentui-react-native/text": ">=0.2.0",
+    "@fluentui-react-native/theme-tokens": "^0.2.0"
   },
   "devDependencies": {
     "@fluentui-react-native/eslint-config-rules": "^0.1.1",
