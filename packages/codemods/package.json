@@ -27,7 +27,7 @@
     "directory": "packages/codemods"
   },
   "dependencies": {
-    "jscodeshift": "^0.13.1",
+    "jscodeshift": "^17.0.0",
     "yargs": "^17.0.0"
   },
   "devDependencies": {
