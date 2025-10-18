@@ -36,13 +36,13 @@
     "@fluentui-react-native/focus-zone": "0.16.7",
     "@fluentui-react-native/interactive-hooks": "0.25.7",
     "@fluentui-react-native/link": "0.21.7",
-    "@fluentui-react-native/menu-button": "0.12.13",
-    "@fluentui-react-native/persona": "0.15.7",
+    "@fluentui-react-native/menu-button": "0.2.0",
+    "@fluentui-react-native/persona": "0.2.0",
     "@fluentui-react-native/persona-coin": "0.14.7",
     "@fluentui-react-native/pressable": "0.11.7",
-    "@fluentui-react-native/radio-group": "0.20.9",
+    "@fluentui-react-native/radio-group": "0.2.0",
     "@fluentui-react-native/separator": "0.17.7",
-    "@fluentui-react-native/tablist": "0.5.14",
+    "@fluentui-react-native/tablist": "0.1.1",
     "@fluentui-react-native/text": "0.22.7"
   },
   "devDependencies": {
