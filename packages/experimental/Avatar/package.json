@@ -29,8 +29,8 @@
     "directory": "packages/experimental/Avatar"
   },
   "dependencies": {
-    "@fluentui-react-native/component-cache": "^1.6.0",
-    "@fluentui-react-native/framework": "0.13.6"
+    "@fluentui-react-native/component-cache": "^1.0.1",
+    "@fluentui-react-native/framework": "0.2.9"
   },
   "devDependencies": {
     "@fluentui-react-native/eslint-config-rules": "^0.1.1",
