@@ -27,10 +27,10 @@
   },
   "dependencies": {
     "@fluentui-react-native/adapters": "^0.12.0",
-    "@fluentui-react-native/button": ">=0.36.10 <1.0.0",
-    "@fluentui-react-native/experimental-appearance-additions": "^0.6.7",
+    "@fluentui-react-native/button": ">=0.2.0",
+    "@fluentui-react-native/experimental-appearance-additions": "^0.2.0",
     "@fluentui-react-native/experimental-shadow": "0.5.7",
-    "@fluentui-react-native/framework": "0.13.6",
+    "@fluentui-react-native/framework": "0.2.9",
     "@fluentui-react-native/icon": "0.20.8",
     "@fluentui-react-native/interactive-hooks": ">=0.25.7 <1.0.0",
     "@fluentui-react-native/pressable": ">=0.11.7 <1.0.0",
