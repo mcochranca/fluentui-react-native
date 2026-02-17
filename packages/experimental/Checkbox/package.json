@@ -27,9 +27,9 @@
   },
   "dependencies": {
     "@fluentui-react-native/adapters": ">=0.12.0 <1.0.0",
-    "@fluentui-react-native/checkbox": ">=0.22.7 <1.0.0",
-    "@fluentui-react-native/component-cache": "^1.6.0",
-    "@fluentui-react-native/framework": "0.13.6",
+    "@fluentui-react-native/checkbox": ">=0.1.0",
+    "@fluentui-react-native/component-cache": "^1.0.1",
+    "@fluentui-react-native/framework": "0.2.9",
     "tslib": "^2.3.1"
   },
   "devDependencies": {
